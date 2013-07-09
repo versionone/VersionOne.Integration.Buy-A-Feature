@@ -58,9 +58,9 @@
     "mediaSection": [
         {
             "title": "Using VersionOne and Buy a Feature",
-            "caption": "The integration of Innovation Games Online and VersionOne‘s hosted application is seamless and secure, allowing VersionOne users to quickly and easily export user stories into Buy a Feature Online, play the game and import the prioritized results back into VersionOne.",
+            "caption": "Quickly and easily export user stories into Buy a Feature Online, play the game and import the prioritized results back into VersionOne",
             "mimetype": "video/x-flv",
-            "href": "http://vtv.v1host.com/permalink/?title=Buy-A-Feature&category=Integrations&edition=enterprise&release=undefined",
+            "href": "http://www.versionone.tv.s3.amazonaws.com/BuyAFeature/BuyAFeature.flv",
             "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
         }
     ]
