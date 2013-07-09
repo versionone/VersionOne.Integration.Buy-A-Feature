@@ -2,7 +2,7 @@
     "id": "VersionOne.Integration.Buy-A-Feature",
     "titleSection": {
         "name": "VersionOne Integration for Buy A Feature",
-        "shortDescription": "Helps product planners collaborate with customers to better understand and prioritize their backlog.",
+        "shortDescription": "helps product planners collaborate with customers to better understand and prioritize their backlog.",
         "pricing": "Free",
         "support": {
             "text": "VersionOne",
@@ -34,7 +34,7 @@
             {
                 "date": "2011-12-01T00:00:00.000Z",
                 "description": "Winter 2011",
-                "version": "1994",
+                "version": "8.3.0.1994",
                 "releaseNotes": " * New: Create Buy-a-Feature Online Game Definition from Feature Group (Theme) \n * New: Create Buy-a-Feature Online Game Items from Backlog Items (Stories) \n * New: Report summary game results from Buy-a-Feature Online to VersionOne",
                 "qualityBand": "mature",
                 "downloadUrl": "http://platform.versionone.com.s3.amazonaws.com/downloads/V1BuyAFeatureIntegration.8.3.zip"
