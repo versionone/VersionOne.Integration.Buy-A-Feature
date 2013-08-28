@@ -21,7 +21,7 @@
         {
             "type": "documentation",
             "title": "Documentation",
-            "href": "http://community.versionone.com/sdk/DetailedDocumentation/BuyAFeature/index.html"
+            "href": "http://legacy.community.versionone.com/sdk/DetailedDocumentation/BuyAFeature/index.html"
         },
         {
             "type": "hyperlink",
@@ -61,7 +61,7 @@
             "caption": "Quickly and easily export user stories into Buy a Feature Online, play the game and import the prioritized results back into VersionOne",
             "mimetype": "video/x-flv",
             "href": "http://www.versionone.tv.s3.amazonaws.com/BuyAFeature/BuyAFeature.flv",
-            "thumbhref": "http://community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
+            "thumbhref": "http://legacy.community.versionone.com/attachments/imagefolder/gettingstarted/video.png"
         }
     ]
 }
