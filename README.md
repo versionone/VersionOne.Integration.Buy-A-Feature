@@ -15,4 +15,4 @@ Innovation Games' virtual market game Buy a Feature Online circumvents these iss
 In the integration with VersionOne, VersionOne users select user stories and export them into Buy a Feature Online. They then play Buy a Feature with customers or internal stakeholders to prioritize these stories. When finished, the system automatically imports the results back into VersionOne's platform. The solution provides for all of the advantage of real-time, interactive, collaborative games—without the added cost or complexity of bringing participants physically together.
 
 ## Code Coming Soon!
-If you are interested in contributing to this project, please contact [Ian Buchanan](mailto:ian.buchanan@versionone.com).
+If you are interested in contributing to this project, please contact [Acey Bunch](mailto:acey.bunch@versionone.com).
